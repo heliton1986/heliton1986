@@ -65,7 +65,7 @@
 <p float="left">
   <a href="https://github.com/heliton1986/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heliton1986&count_private=true&hide_rank=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliton1986&hide=jupyter%20notebook,html&langs_count=10&theme=react&hide_rank=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliton1986&hide=jupyter%20notebook,html&langs_count=10&theme=react&hide_rank=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/> -->
   </details>
   <details>
     <summary>
