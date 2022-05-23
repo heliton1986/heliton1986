@@ -1,50 +1,48 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/heliton1986"> <img src="https://visitor-badge.laobi.icu/badge?page_id=heliton1986" alt="Visitantes"></a></h2>
 
-# Um engenheiro de dados em construção
+## Um engenheiro de dados em construção
 
 ## 🚀 **Certificações, Linguagens e ferramentas - Engenharia de dados:**
 
  #### 📝 Certificações:
-#### Microsoft Certified: Azure Fundamentals - AZ900
-#### Microsoft Certified: Azure Data Fundamentals - DP900
+#### Estudando para Microsoft Certified: Azure Fundamentals - AZ900
+#### Estudando para Microsoft Certified: Azure Data Fundamentals - DP900
  
  #### 💻 Cursos Realizados:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![MySQL](https://img.shields.io/badge/-mysql-black?style=flat-square&logo=mysql)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ 
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ 
+ #### Realizando:
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
- ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
- ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
- ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
  
  #### 🎲 No roteiro para aprendizado:
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
- ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
+ ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
+ ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
 
   <br>
 
 <h2 align="center"> Entre em contato comigo!! </h2>
 
 <p>
-<a href="https://www.linkedin.com/in/ronnan-concei%C3%A7%C3%A3o-lima-52761910b/">
+<a href="https://www.linkedin.com/in/heliton-ribeiro-ferreira/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/ronnanlimao/">
