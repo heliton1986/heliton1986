@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/in/heliton-ribeiro-ferreira/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/ronnanlimao/">
+<!-- <a href="https://www.instagram.com/ronnanlimao/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:rlimprod@gmail.com">
@@ -59,7 +59,7 @@
 </a>
 <a href="https://www.hackerrank.com/RONNAN_OK">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
+</a> -->
 </p>
 
 <p float="left">
