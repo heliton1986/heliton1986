@@ -4,6 +4,8 @@
 ## Um engenheiro de dados em construção
 
 ## 🚀 **Certificações, Linguagens e ferramentas - Engenharia de dados:**
+ 
+ ### Atuando no programa AWS Cloud Data Engineering - Compass Uol
 
  #### 📝 Certificações:
 #### Estudando para Microsoft Certified: Azure Fundamentals - AZ900
