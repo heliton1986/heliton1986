@@ -23,6 +23,7 @@
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  
  #### Realizando:
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
@@ -31,7 +32,6 @@
  #### 🎲 No roteiro para aprendizado:
  ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
- ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
